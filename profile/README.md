@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/axiora-dev/.github/main/assets/logo.png"
-       alt="Axiora" style="border-radius: 50%"/>
+       alt="Axiora" width="72"/>
 
   <br/>
   <br/>
