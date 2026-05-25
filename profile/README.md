@@ -1,20 +1,20 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/axiora-dev/.github/main/assets/logo.png"
-       alt="Axiora" width="72" />
+       alt="Axiora"/>
 
   <br/>
   <br/>
 
-  <strong>Local-first AI development environment.</strong><br/>
-  <span>Your code. Your machine. Your rules.</span>
+<strong>Local-first AI development environment.</strong><br/>
+<span>Your code. Your machine. Your rules.</span>
 
   <br/>
   <br/>
 
-  [![Status](https://img.shields.io/badge/Status-Early%20Alpha-orange?style=flat-square)]()
-  [![License](https://img.shields.io/badge/License-MIT-00d8a0?style=flat-square)]()
-  [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=flat-square&logo=discord)](https://discord.gg/axiora)
-  [![Twitter](https://img.shields.io/badge/Twitter-@axiora__dev-black?style=flat-square&logo=x)](https://twitter.com/axiora_dev)
+[![Status](https://img.shields.io/badge/Status-Early%20Alpha-orange?style=flat-square)]()
+[![License](https://img.shields.io/badge/License-MIT-00d8a0?style=flat-square)]()
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=flat-square&logo=discord)](https://discord.gg/axiora)
+[![Twitter](https://img.shields.io/badge/Twitter-@axiora__dev-black?style=flat-square&logo=x)](https://twitter.com/axiora_dev)
 
 </div>
 
@@ -26,6 +26,7 @@ Axiora is an open-core IDE powered entirely by local AI models.
 No cloud dependency. No token billing. No data leaving your machine.
 
 We believe AI-assisted development should be:
+
 - **Private by default** — your codebase stays on your hardware
 - **Free to run** — no per-request cost, ever
 - **Available anywhere** — offline, air-gapped, anywhere on earth
@@ -34,12 +35,12 @@ We believe AI-assisted development should be:
 
 ## Repositories
 
-| Repo | Description | Status |
-|------|-------------|--------|
-| [`axiora`](https://github.com/axiora-dev/axiora) | Core IDE — editor + AI runtime | 🔨 Alpha |
+| Repo                                                           | Description                     | Status   |
+| -------------------------------------------------------------- | ------------------------------- | -------- |
+| [`axiora`](https://github.com/axiora-dev/axiora)               | Core IDE — editor + AI runtime  | 🔨 Alpha |
 | [`axiora-models`](https://github.com/axiora-dev/axiora-models) | Model configs & routing presets | 🔨 Alpha |
-| [`axiora-docs`](https://github.com/axiora-dev/axiora-docs) | Documentation & guides | 📝 WIP |
-| [`.github`](https://github.com/axiora-dev/.github) | Org profile & community files | ✅ |
+| [`axiora-docs`](https://github.com/axiora-dev/axiora-docs)     | Documentation & guides          | 📝 WIP   |
+| [`.github`](https://github.com/axiora-dev/.github)             | Org profile & community files   | ✅       |
 
 ---
 
@@ -55,6 +56,7 @@ We're in early alpha. The best time to shape Axiora is now.
 ---
 
 ## Stack
+
 VS Code fork · TypeScript · Ollama · llama.cpp · Electron
 
 ---
