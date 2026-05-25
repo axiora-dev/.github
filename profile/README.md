@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/axiora-dev/.github/main/assets/logo.png"
+  <img src="../assets/logo.png"
        alt="Axiora" width="72" />
 
   <br/>
